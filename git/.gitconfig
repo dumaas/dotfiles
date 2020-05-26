@@ -1,0 +1,8 @@
+[user]
+	name = dumaas
+	email = normify@gmail.com
+	username = dumaas
+[color]
+	ui = auto
+[core]
+	excludesfile = /home/dumaas/.gitignore_global
