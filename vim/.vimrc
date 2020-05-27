@@ -218,8 +218,8 @@
 	syntax on
 
 " Learn Vim the Hard Way
-    " Print a cute cat whenever opening Vim
-    echo "Welcome to Vim! >^.^<"
+    " DONT print a cute cat whenever opening Vim
+    " echo "Welcome to Vim! >^.^<"
     "
     " Map - to cut and paste 1 line below
     noremap <leader>- ddp
