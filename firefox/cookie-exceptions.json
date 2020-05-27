@@ -1,0 +1,188 @@
+{
+  "default": [
+    {
+      "expression": "*.evernote.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "aCPh_1M-M"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "AEVqjtC-4"
+    },
+    {
+      "expression": "*.mailchimp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "z3-RDnA-R"
+    },
+    {
+      "expression": "*.mega.nz",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "6tdCqn0ce"
+    },
+    {
+      "expression": "*.onedrive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "qFDnKBRcE"
+    },
+    {
+      "expression": "*.outlook.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "RIF4q7Hmv"
+    },
+    {
+      "expression": "*.outlook.office365.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "2huxxtM-v"
+    },
+    {
+      "expression": "*.runningrules.co",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "lR9gFotXx"
+    },
+    {
+      "expression": "*.siteground.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "NPLDvJF0K"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "DV-HwrRfv"
+    },
+    {
+      "expression": "*.trello.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "mZHUwDP91"
+    },
+    {
+      "expression": "evernote.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "XG_kbIV-N"
+    },
+    {
+      "expression": "mailchimp.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "1sAGSJ8Dp"
+    },
+    {
+      "expression": "mega.nz",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "Vey3RZUIh"
+    },
+    {
+      "expression": "onedrive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "rwfv3z881"
+    },
+    {
+      "expression": "outlook.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "cXAMga9P-"
+    },
+    {
+      "expression": "outlook.office365.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "mdOCYhdw7"
+    },
+    {
+      "expression": "reddit.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "zVFrarAbJ"
+    },
+    {
+      "expression": "runningrules.co",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "7s7nAZdjd"
+    },
+    {
+      "expression": "siteground.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "RU2nwGX4O"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "HeGh7dnMk"
+    },
+    {
+      "expression": "trello.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "lcjAb0emY"
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanLocalStorage": false,
+      "cookieNames": [],
+      "id": "VcuB1cvmK"
+    }
+  ]
+}
