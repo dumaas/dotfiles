@@ -333,4 +333,9 @@
 	    autocmd FileType markdown nmap <buffer> <leader>r      :w<cr>:exec '!grip -b %'<cr>
 	    autocmd FileType markdown imap <buffer> <leader>r <esc>:w<cr>:exec '!grip -b %'<cr>
 	augroup END
-	
+    " C linked with cs50 library
+	augroup filetype_c
+	    autocmd!
+	    autocmd FileType c nmap <buffer> <leader>r      :w<cr>:exec '!gcc % -o %< -lcs50 && ./%<' <cr>
+	    autocmd FileType c imap <buffer> <leader>r <esc>:w<cr>:exec '!gcc % -o %< -lcs50 && ./%<' <cr>
+	augroup END
