@@ -1,0 +1,17 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Christian Gonzalez
+	email = 61253949+dumaas@users.noreply.github.com
+[push]
+	autoSetupRemote = true
+
+[alias]
+	# from https://youtu.be/aolI_Rz0ZqY?t=700
+	fblame = blame -w -C -C -C --color-by-age
+[rerere]
+	# from https://youtu.be/aolI_Rz0ZqY?t=904
+	enabled = true
+[branch]
+	# from https://youtu.be/aolI_Rz0ZqY?t=1034
+	sort = -committerdate
