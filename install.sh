@@ -16,8 +16,8 @@ cp ./.zshrc ~
 cp ./.p10k.zsh ~
 
 # Provide app-specific configurations to zshrc
-if [ -f ~/.devcontainer/.shell_override.sh ]; then
-    echo "shell_override.sh found, appending to .zshrc"
+if [ -f ~/.shell_override.sh ]; then
+    echo "shell override file found, appending to .zshrc"
     echo "" >> ~/.zshrc  # Add blank line for separation
-    cat ~/.devcontainer/.shell_override.sh >> ~/.zshrc
+    cat ~/.shell_override.sh >> ~/.zshrc
 fi
