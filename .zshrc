@@ -116,6 +116,9 @@ alias ls='eza --color=auto'
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+# Suppress warning
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
+
 # remove username@hostname in prompt as advised at
 # https://github.com/ohmyzsh/ohmyzsh/issues/5581#issuecomment-256825141
 prompt_context() {}
